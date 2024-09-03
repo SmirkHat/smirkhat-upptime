@@ -19,6 +19,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://smirkhat.org/assets/img/SmirkHat2(1).svg
   name: Stav služeb SmirkHat.org
+  theme: night
   introTitle: "**Stav služeb SmirkHat.org**"
   introMessage: Není něco v pořádku? Kontaktujte nás na podpora@smirkhat.org!
   navbar:
