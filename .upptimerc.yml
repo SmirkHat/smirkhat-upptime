@@ -7,16 +7,18 @@ sites:
     url: https://smirkhat.org
   - name: "Google"
     url: https://google.com
+  - name: "Počasí aplikace"
+    url: http://web-m8b6oqk.hstnw.eu/
   - name: "Backend pro blog"
-    url: https://pb.smirkhat.org/_/
+    url: https://pb.smirkhat.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.smirkhat.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://smirkhat.org/assets/img/SmirkHat2(1).svg
+  name: Stav služeb SmirkHat.org
   introTitle: "**Stav služeb SmirkHat.org**"
   introMessage: Není něco v pořádku? Kontaktujte nás na podpora@smirkhat.org!
   navbar:
