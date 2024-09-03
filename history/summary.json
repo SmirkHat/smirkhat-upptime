@@ -1,42 +1,42 @@
 [
   {
-    "name": "SmirkHat Blog",
+    "name": "Hlavní blog",
     "url": "https://smirkhat.org",
     "icon": "https://icons.duckduckgo.com/ip3/smirkhat.org.ico",
-    "slug": "smirk-hat-blog",
+    "slug": "hlavni-blog",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 182,
-    "timeDay": 182,
-    "timeWeek": 182,
-    "timeMonth": 182,
-    "timeYear": 182,
+    "time": 236,
+    "timeDay": 236,
+    "timeWeek": 236,
+    "timeMonth": 236,
+    "timeYear": 236,
     "dailyMinutesDown": {
       "2024-09-03": 0
     }
   },
   {
-    "name": "SmirkHat Backend",
+    "name": "Backend pro blog",
     "url": "https://pb.smirkhat.org/_/",
     "icon": "https://icons.duckduckgo.com/ip3/pb.smirkhat.org.ico",
-    "slug": "smirk-hat-backend",
+    "slug": "backend-pro-blog",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 166,
-    "timeDay": 166,
-    "timeWeek": 166,
-    "timeMonth": 166,
-    "timeYear": 166,
+    "uptime": "1.33%",
+    "uptimeDay": "1.33%",
+    "uptimeWeek": "1.33%",
+    "uptimeMonth": "1.33%",
+    "uptimeYear": "1.33%",
+    "time": 201,
+    "timeDay": 201,
+    "timeWeek": 201,
+    "timeMonth": 201,
+    "timeYear": 201,
     "dailyMinutesDown": {
-      "2024-09-03": 4
+      "2024-09-03": 0
     }
   }
 ]
