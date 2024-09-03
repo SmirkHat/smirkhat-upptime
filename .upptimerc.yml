@@ -17,6 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.smirkhat.org
   # baseUrl: /your-repo-name
+  favicon: https://smirkhat.org/assets/img/SmirkHat2(1).svg
   logoUrl: https://smirkhat.org/assets/img/SmirkHat2(1).svg
   name: Stav služeb SmirkHat.org
   theme: night
