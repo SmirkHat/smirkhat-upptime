@@ -5,6 +5,8 @@ repo: smirkhat-upptime # The name of this repository
 sites:
   - name: SmirkHat
     url: https://smirkhat.org
+  - name: SmirkHat backend
+    url: https://pb.smirkhat.org/_/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
