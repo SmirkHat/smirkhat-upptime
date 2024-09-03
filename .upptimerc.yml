@@ -5,12 +5,10 @@ repo: smirkhat-upptime # The name of this repository
 sites:
   - name: "Hlavní blog"
     url: https://smirkhat.org
-  - name: "Google"
-    url: https://google.com
   - name: "Počasí aplikace"
     url: http://web-m8b6oqk.hstnw.eu/
   - name: "Backend pro blog"
-    url: https://pb.smirkhat.org
+    url: https://pb.smirkhat.org/_/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,6 +18,7 @@ status-website:
   favicon: https://smirkhat.org/assets/img/SmirkHat2(1).svg
   logoUrl: https://smirkhat.org/assets/img/SmirkHat2(1).svg
   name: Stav služeb SmirkHat.org
+  css: "@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap'); body { font-family: 'Space Grotesk', system-ui, sans-serif !important; }"
   theme: night
   introTitle: "**Stav služeb SmirkHat.org**"
   introMessage: Není něco v pořádku? Kontaktujte nás na podpora@smirkhat.org!
