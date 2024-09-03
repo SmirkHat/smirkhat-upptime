@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Stav služeb SmirkHat.org**"
-  introMessage: "<p align="center">Není něco v pořádku? Kontaktujte nás na podpora@smirkhat.org!</p>"
+  introMessage: Není něco v pořádku? Kontaktujte nás na podpora@smirkhat.org!
   navbar:
     - title: Stav
       href: /
