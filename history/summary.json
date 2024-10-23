@@ -25,9 +25,9 @@
     "url": "http://web-m8b6oqk.hstnw.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/web-m8b6oqk.hstnw.eu.ico",
     "slug": "pocasi-aplikace",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 517,
     "timeMonth": 521,
     "timeYear": 535,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-23": 0
+    }
   },
   {
     "name": "Backend pro blog",
@@ -44,11 +46,11 @@
     "icon": "https://www.google.com/s2/favicons?domain=pb.smirkhat.org&sz=256",
     "slug": "backend-pro-blog",
     "status": "up",
-    "uptime": "42.44%",
+    "uptime": "43.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "61.81%",
-    "uptimeYear": "42.44%",
+    "uptimeMonth": "63.98%",
+    "uptimeYear": "43.20%",
     "time": 546,
     "timeDay": 624,
     "timeWeek": 532,
